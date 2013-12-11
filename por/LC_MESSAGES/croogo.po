@@ -2,17 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Croogo\n"
 "POT-Creation-Date: 2012-07-08 17:30+0700\n"
-"PO-Revision-Date: 2010-03-09 22:17-0300\n"
+"PO-Revision-Date: 2013-12-11 16:28-0300\n"
 "Last-Translator: Juan Basso <jrbasso@gmail.com>\n"
 "Language-Team: Juan Basso <jrbasso@gmail.com>\n"
-"Language: \n"
+"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: Portuguese\n"
-"X-Poedit-Country: BRAZIL\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.6.2\n"
 
 #: Plugin/Acl/Config/bootstrap.php:19
 #: Plugin/Acl/Controller/AclPermissionsController.php:58
@@ -25,7 +24,7 @@ msgstr "Permissões"
 
 #: Plugin/Acl/Config/bootstrap.php:30
 msgid "Access Control"
-msgstr ""
+msgstr "Controle de Acesso"
 
 #: Plugin/Acl/Console/Command/ExtrasShell.php:94
 msgid "Plugin to process"
@@ -266,11 +265,11 @@ msgstr "Usuários"
 #: Plugin/Users/View/Roles/admin_form.ctp:13
 #: Plugin/Users/View/Users/admin_form.ctp:17
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 #: Plugin/Acl/View/AclActions/admin_form.ctp:27
 msgid "Action"
-msgstr ""
+msgstr "Ação"
 
 #: Plugin/Acl/View/AclActions/admin_form.ctp:39
 #: Plugin/Menus/View/Links/admin_form.ctp:56
@@ -369,12 +368,12 @@ msgstr "Enviar"
 #: Plugin/Users/View/Users/admin_form.ctp:74
 #: Plugin/Users/View/Users/admin_reset_password.ctp:38
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: Plugin/Acl/View/AclActions/admin_index.ctp:21
 #: Plugin/Acl/View/AclPermissions/admin_index.ctp:19
 msgid "Tools"
-msgstr ""
+msgstr "Ferramentas"
 
 #: Plugin/Acl/View/AclActions/admin_index.ctp:35
 #: Plugin/Acl/View/AclPermissions/admin_index.ctp:33
@@ -461,7 +460,7 @@ msgstr "Mover para baixo"
 #: Plugin/Taxonomy/View/Vocabularies/admin_index.ctp:43
 #: Plugin/Translate/View/Translate/admin_index.ctp:54
 msgid "Edit this item"
-msgstr ""
+msgstr "Editar este item"
 
 #: Plugin/Acl/View/AclActions/admin_index.ctp:121
 #: Plugin/Acl/View/AclPermissions/json/admin_index.ctp:19
@@ -479,7 +478,7 @@ msgstr ""
 #: Plugin/Taxonomy/View/Vocabularies/admin_index.ctp:47
 #: Plugin/Translate/View/Translate/admin_index.ctp:63
 msgid "Remove this item"
-msgstr ""
+msgstr "Remover este item"
 
 #: Plugin/Acl/View/AclActions/admin_index.ctp:125
 #: Plugin/Acl/View/AclPermissions/json/admin_index.ctp:20
@@ -515,11 +514,11 @@ msgstr ""
 
 #: Plugin/Acl/View/Elements/admin/row_acl.ctp:4
 msgid "Edit Permissions"
-msgstr ""
+msgstr "Editar permissões"
 
 #: Plugin/Acl/View/Helper/AclHelper.php:34
 msgid "Upgrade Acl database"
-msgstr ""
+msgstr "Atualizar base de dados Acl"
 
 #: Plugin/Blocks/Config/bootstrap.php:18;28
 #: Plugin/Blocks/Controller/BlocksController.php:98
@@ -571,7 +570,7 @@ msgstr "Bloco excluído"
 #: Plugin/Taxonomy/Controller/TermsController.php:327
 #: Plugin/Taxonomy/Controller/VocabulariesController.php:128
 msgid "Moved up successfully"
-msgstr ""
+msgstr "Movido para cima com sucesso"
 
 #: Plugin/Blocks/Controller/BlocksController.php:205
 #: Plugin/Menus/Controller/LinksController.php:280
@@ -589,7 +588,7 @@ msgstr "Não foi possível mover para cima"
 #: Plugin/Taxonomy/Controller/TermsController.php:369
 #: Plugin/Taxonomy/Controller/VocabulariesController.php:146
 msgid "Moved down successfully"
-msgstr ""
+msgstr "Movido para baixo com sucesso"
 
 #: Plugin/Blocks/Controller/BlocksController.php:223
 #: Plugin/Menus/Controller/LinksController.php:315
@@ -610,7 +609,7 @@ msgstr "Nenhum item selecionado."
 
 #: Plugin/Blocks/Controller/BlocksController.php:251
 msgid "Blocks deleted"
-msgstr ""
+msgstr "Blocos removidos"
 
 #: Plugin/Blocks/Controller/BlocksController.php:254
 msgid "Blocks published"
@@ -733,16 +732,16 @@ msgstr "se você não tem certeza, escolha 'none'"
 #: Plugin/Contacts/View/Messages/admin_form.ctp:44
 #: Plugin/Nodes/View/Nodes/admin_form.ctp:56
 msgid "Body"
-msgstr ""
+msgstr "Corpo"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:57
 #: Plugin/Menus/View/Links/admin_form.ctp:98
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:60
 msgid "Element"
-msgstr ""
+msgstr "Elemento"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:76
 msgid "Visibility Paths"
@@ -763,7 +762,7 @@ msgstr ""
 #: Plugin/Menus/View/Menus/admin_form.ctp:66
 #: Plugin/Nodes/View/Nodes/admin_form.ctp:74
 msgid "Apply"
-msgstr ""
+msgstr "Aplicar"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:98
 #: Plugin/Blocks/View/Regions/admin_form.ctp:61
@@ -790,7 +789,7 @@ msgstr ""
 #: Plugin/Users/View/Roles/admin_form.ctp:51
 #: Plugin/Users/View/Users/admin_form.ctp:72
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:101
 #: Plugin/Blocks/View/Blocks/admin_index.ctp:25
@@ -807,12 +806,12 @@ msgstr "Status"
 
 #: Plugin/Blocks/View/Blocks/admin_form.ctp:105
 msgid "Show title ?"
-msgstr ""
+msgstr "Mostrar título?"
 
 #: Plugin/Blocks/View/Blocks/admin_index.ctp:59
 #: Plugin/Croogo/View/Common/admin_index.ctp:69
 msgid "Choose"
-msgstr ""
+msgstr "Escolher"
 
 #: Plugin/Blocks/View/Blocks/admin_index.ctp:98
 #: Plugin/Comments/View/Comments/admin_index.ctp:115
@@ -892,7 +891,7 @@ msgstr "Comentário excluído"
 
 #: Plugin/Comments/Controller/CommentsController.php:165
 msgid "Comments deleted"
-msgstr ""
+msgstr "Comentários removidos"
 
 #: Plugin/Comments/Controller/CommentsController.php:168
 msgid "Comments published"
@@ -912,7 +911,7 @@ msgstr "Nível máximo atingido. Você não pode responder a esse comentário."
 
 #: Plugin/Comments/Controller/CommentsController.php:232
 msgid "Comments are not allowed."
-msgstr ""
+msgstr "Comentários não são permitidos"
 
 #: Plugin/Comments/Controller/CommentsController.php:256
 msgid "Your comment has been added successfully."
@@ -1003,24 +1002,24 @@ msgstr "Site"
 
 #: Plugin/Comments/View/Comments/admin_form.ctp:64
 msgid "Ip"
-msgstr ""
+msgstr "Ip"
 
 #: Plugin/Comments/View/Comments/admin_index.ctp:17
 msgid "Comments: Published"
-msgstr ""
+msgstr "Comentários: Publicados"
 
 #: Plugin/Comments/View/Comments/admin_index.ctp:20
 msgid "Comments: Approval"
-msgstr ""
+msgstr "Comentários: Aprovador"
 
 #: Plugin/Comments/View/Comments/admin_index.ctp:51
 msgid "Node"
-msgstr ""
+msgstr "Nó"
 
 #: Plugin/Comments/View/Comments/admin_index.ctp:53
 #: Plugin/Nodes/View/Nodes/admin_chooser.ctp:7;50
 msgid "Created"
-msgstr ""
+msgstr "Criado"
 
 #: Plugin/Comments/View/Comments/rss/index.ctp:17
 msgid "Comment on"
@@ -1149,7 +1148,7 @@ msgstr "Desculpa, a mensagem parece ser um spam."
 
 #: Plugin/Contacts/Controller/ContactsController.php:263
 msgid "[%s] %s"
-msgstr ""
+msgstr "[%s] %s"
 
 #: Plugin/Contacts/Controller/MessagesController.php:71
 #: Plugin/Contacts/View/Messages/admin_index.ctp:12;47
@@ -1204,37 +1203,37 @@ msgstr "Mensagem"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:59
 msgid "Position"
-msgstr ""
+msgstr "Posição"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:62
 #: Plugin/Contacts/View/Messages/admin_form.ctp:50
 msgid "Address"
-msgstr ""
+msgstr "Endereço"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:65
 msgid "Address2"
-msgstr ""
+msgstr "Endereço 2"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:68
 msgid "State"
-msgstr ""
+msgstr "Estado"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:71
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:74
 msgid "Post Code"
-msgstr ""
+msgstr "CEP"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:77
 #: Plugin/Contacts/View/Messages/admin_form.ctp:47
 msgid "Phone"
-msgstr ""
+msgstr "Telefone"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:80
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #: Plugin/Contacts/View/Contacts/admin_form.ctp:88
 msgid "Let users leave a message"
@@ -1293,7 +1292,7 @@ msgstr "Mensagem: %s"
 
 #: Plugin/Contacts/View/Messages/admin_index.ctp:13
 msgid "Messages: Read"
-msgstr ""
+msgstr "Mensagens: Lidas"
 
 #: Plugin/Contacts/View/Messages/admin_index.ctp:15;41
 msgid "Unread"
@@ -1301,7 +1300,7 @@ msgstr "Não lida"
 
 #: Plugin/Contacts/View/Messages/admin_index.ctp:16
 msgid "Messages: Unread"
-msgstr ""
+msgstr "Mensagens: Não lidas"
 
 #: Plugin/Contacts/View/Messages/admin_index.ctp:126
 msgid "Mark as read"
@@ -1381,7 +1380,7 @@ msgstr ""
 
 #: Plugin/Croogo/Console/Command/ExtShell.php:221
 msgid "Plugins:"
-msgstr ""
+msgstr "Plugins:"
 
 #: Plugin/Croogo/Console/Command/ExtShell.php:222;234;248;258
 msgid "%-20s%-50s%s"
@@ -1393,15 +1392,15 @@ msgstr "Plugin"
 
 #: Plugin/Croogo/Console/Command/ExtShell.php:222;248
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: Plugin/Croogo/Console/Command/ExtShell.php:248
 msgid "Theme"
-msgstr ""
+msgstr "Tema"
 
 #: Plugin/Croogo/Console/Command/InstallShell.php:81
 msgid "Installing with Composer..."
-msgstr ""
+msgstr "Instalando com Composer…"
 
 #: Plugin/Croogo/Console/Command/InstallShell.php:89
 msgid "Unexpected composerInstall return value"
@@ -1493,12 +1492,12 @@ msgstr ""
 #: Plugin/Croogo/Console/Command/Task/UpgradeTask.php:185
 #: Plugin/Settings/Console/Command/SettingsShell.php:155
 msgid "- %s"
-msgstr ""
+msgstr "- %s"
 
 #: Plugin/Croogo/Console/Command/Task/UpgradeTask.php:186
 #: Plugin/Settings/Console/Command/SettingsShell.php:158
 msgid "+ %s"
-msgstr ""
+msgstr "+ %s"
 
 #: Plugin/Croogo/Console/Command/Task/UpgradeTask.php:191
 msgid "Links updated: %d rows"
@@ -1590,7 +1589,7 @@ msgstr ""
 
 #: Plugin/Croogo/View/Elements/admin/footer.ctp:7
 msgid "Croogo %s"
-msgstr ""
+msgstr "Croogo %s"
 
 #: Plugin/Croogo/View/Elements/admin/header.ctp:22
 #: Plugin/Settings/Controller/SettingsController.php:48
@@ -1604,15 +1603,15 @@ msgstr "Visite o site"
 
 #: Plugin/Croogo/View/Elements/admin/header.ctp:34
 msgid "You are logged in as: %s"
-msgstr ""
+msgstr "Você está logado como: %s"
 
 #: Plugin/Croogo/View/Elements/admin/header.ctp:38
 msgid "Log out"
-msgstr ""
+msgstr "Sair"
 
 #: Plugin/Croogo/View/Elements/admin/modal.ctp:19
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: Plugin/Croogo/View/Elements/admin/search.ctp:39
 #: Plugin/Nodes/View/Elements/admin/nodes_search.ctp:53
@@ -1731,7 +1730,7 @@ msgstr ""
 
 #: Plugin/Extensions/Controller/ExtensionsLocalesController.php:173
 msgid "The file %s does not exist."
-msgstr ""
+msgstr "O arquivo %s não existe."
 
 #: Plugin/Extensions/Controller/ExtensionsLocalesController.php:183
 msgid "Locale updated successfully"
@@ -1811,7 +1810,7 @@ msgstr "Envie um novo tema"
 
 #: Plugin/Extensions/Controller/ExtensionsThemesController.php:104
 msgid "Theme uploaded successfully."
-msgstr ""
+msgstr "Tema enviado com sucesso."
 
 #: Plugin/Extensions/Controller/ExtensionsThemesController.php:118
 msgid "Theme Editor"
@@ -1827,7 +1826,7 @@ msgstr "O tema padrão não pode ser excluído."
 
 #: Plugin/Extensions/Controller/ExtensionsThemesController.php:145
 msgid "You cannot delete a theme that is currently active."
-msgstr ""
+msgstr "Você não pode remover o tema que está ativo atualmente."
 
 #: Plugin/Extensions/Controller/ExtensionsThemesController.php:152
 msgid "Theme deleted successfully."
